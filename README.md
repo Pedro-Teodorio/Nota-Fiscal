@@ -103,6 +103,16 @@ spring.datasource.password = senhaDeUsuario
 
 ***
 
+<br>
+
+<p align="center">6) A seguir na pasta <strong><i>src/main/java</i></strong>, clique no arquivo de nome <strong><i>NotaFiscalApplication</i></strong>e Execute-o</p>
+
+<br>
+
+<div align="center">
+  <img src="./assets/apllication.png" />
+</div>
+
 
 <h3 align="center">Tecnologias</h3>
 
